@@ -1,6 +1,6 @@
 # Vectrex Demo
 
-Some example  how to use CMOC toolchain for Vectrex development
+A example how to use CMOC toolchain for Vectrex development
 
 ## Links
 
